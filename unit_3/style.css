@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+   	background-image: url("images/homepage.jpg");
+    background-size: cover;
+}
+
+h1 {
+	color: #333330;
+	font-family: Arial, sans-serif;
+}
+
+p {color: #333330;
+	font-family: Verdana, sans-serif;
+	font-size: 11px; 
+	padding-top: 50px;
+    padding-right: 500px;
+    padding-left: 450px;
+}
