@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Oswald|Lobster');
+
+body {
+    background-size: cover;
+}
+
+nav {
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+  float: right;
+}
+
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 1em;
+	display: inline-block;
+}
+
+div {
+  font-size: 1.1em;
+
+  padding: 2%;
+  display: inline-block;
+}
+
+section {
+  overflow: auto;
+}
+
+#col-container div {
+	width: 46%;
+	float: left;
+
+}
+
+#marketing {
+	display: block;
+	width: 25%;
+	margin: 20;
+}
+
+#branding {
+
+	display: block;
+	width: 25%;
+	margin: 0;
+}
+
+#design {
+	display: inline-block;
+	width: 25%;
+	margin: 0;
+}
+
+#development {
+	display: inline-block;
+	width: 25%;
+
+
+	margin: 0;
+}
+
+h1 {
+	color: #333330;
+	font-family: Oswald, sans-serif;
+	text-align: left;
+}
+
+h3 {
+	color: #333330;
+	font-family: Oswald, sans-serif;
+	font-size: 1em;
+	text-align: left;
+}
+
+p {
+	color: #333330;
+	font-family: 'Bitter', serif;
+	text-align: center;
+	font-size: 0.4em; 
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+  	clear: both;
+}
